@@ -38,6 +38,8 @@ Time spent : 7 Hours spent in total
 
 6. Milestone 5
 
+![Honeypot_Issue](https://user-images.githubusercontent.com/42657573/57573784-6b35c580-73e2-11e9-88cf-2e825cada0b4.gif)
+
 - Issues : I am not able to get this milestone for attack.
            As it does not export data to json, I found this is known issues and I could not find information on how to fix it.
            Please find 2 png files for that issue : GCloud_Milestone5_Issue_2.png and GCloud_Milestone5_Issue_3_Python.png
