@@ -1,0 +1,44 @@
+# Project   - Honeypot
+
+Time spent : 7 Hours spent in total
+
+*** Please find png files for screenshots of Milestones ***
+
+## Walkthrough Report
+
+1. Milestone 0
+
+ # Summary :
+ - Set up VMs ( Ubuntu 14.04 - Trusty) and GCP Users in Google Cloud
+ 
+2. Milestone 1
+
+# Summary : 
+- Create MHN Admin VM and make accessible via SSH
+- HTTP (port 80)traffic allowed 
+- TCP (ports : 3000 and 1000) opened for Ingress/Incoming Traffic
+
+3. Milestone 2
+
+# Summary :
+- Install MHN Admin Application
+- Set up Superuser email and Superuser password
+
+4. Milestone 3
+
+# Summary :
+- Create MHN Honeypot VM
+- Make VM accessible via ssh
+- Create Firewall Rule
+
+5. Milestone 4
+
+- Deploy Ubuntu - Dionaea with HTTP
+- Check new honeypot in Sensors >> View sensors
+
+6. Milestone 5
+
+- Issues : I am not able to get this milestone for attack.
+           As it does not export data to json, I found this is known issues and I could not find information on how to fix it.
+           Please find 2 png files for that issue : GCloud_Milestone5_Issue_2.png and GCloud_Milestone5_Issue_3_Python.png
+           
